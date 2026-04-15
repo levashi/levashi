@@ -1,6 +1,6 @@
 ## 👋 Hey
 
-Self-taught developer focused on AI safety, privacy tools, and systems exploration.
+Self-taught developer focused on Machine Learning, AI safety, privacy tools, and front-end apps.
 
 ---
 
